@@ -1,0 +1,5 @@
+C:/Users/Alex/source/repos/restapi-cpp-httplib-example/out/build/x64-Debug (default)/CMakeFiles/edit_cache.dir
+C:/Users/Alex/source/repos/restapi-cpp-httplib-example/out/build/x64-Debug (default)/CMakeFiles/rebuild_cache.dir
+C:/Users/Alex/source/repos/restapi-cpp-httplib-example/out/build/x64-Debug (default)/rest-api-httplib/CMakeFiles/rest-api-httplib.dir
+C:/Users/Alex/source/repos/restapi-cpp-httplib-example/out/build/x64-Debug (default)/rest-api-httplib/CMakeFiles/edit_cache.dir
+C:/Users/Alex/source/repos/restapi-cpp-httplib-example/out/build/x64-Debug (default)/rest-api-httplib/CMakeFiles/rebuild_cache.dir
